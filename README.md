@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @mgyt999vsmgyt111
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I am Mayon
 
-<!---
-mgyt999vsmgyt111/mgyt999vsmgyt111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am of 12.
+I like to code.
+
+My favourate languages are HTML, JS, CSS, PY, C, NODE.JS, YMAL, etc..
+
+
+I am a profesnal DiscordBot & MC Server dev.
+
+50+ clients worked with.
+
+
+
+
+Discord: --»» mayonplayz#0
+Email: --»» official.mayoncoder@gmail.com
+
+
+
+
+
+Thanks,
+Mayon
